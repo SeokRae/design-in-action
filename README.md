@@ -10,3 +10,4 @@
 ### [04. 캐싱](docs/04.Caching.md)
 ### [05. 파티셔닝](docs/05.Data_Partitioning.md)
 ### [06. 인덱스](docs/06.Indexes.md)
+### [07. 프록시](docs/07.Proxy.md)
