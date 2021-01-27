@@ -15,3 +15,4 @@
 - [09. SQL대 NoSQL](docs/09.SQL_NoSQL.md)
 - [10. CAP 정리](docs/10.CAP_Theorem.md)
 - [11. 일관된 해싱](docs/11.Consistent_Hashing.md)
+- [12. Long-Polling vs WebSockets vs Server-Sent Events](docs/12.Long-Polling_vs_WebSockets_vs_Server-Sent_Events.md)
