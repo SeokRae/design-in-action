@@ -11,3 +11,6 @@
 ### [05. 파티셔닝](docs/05.Data_Partitioning.md)
 ### [06. 인덱스](docs/06.Indexes.md)
 ### [07. 프록시](docs/07.Proxy.md)
+### [08. 중복 및 복제](docs/08.Redundancy_and_Replication.md)
+### [09. CAP 정리](docs/09.CAP_Theorem.md)
+### [10. 일관된 해싱](docs/10.Consistent_Hashing.md)
