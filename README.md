@@ -1,4 +1,5 @@
 # Grokking the System Design Interview
+- 확장가능한 시스템에 대해 더 나은 아키텍처 및 설계하는 방법에 대한 학습
 
 ## System Design Problems
 
@@ -16,3 +17,7 @@
 - [10. CAP 정리](docs/basics/10.CAP_Theorem.md)
 - [11. 일관된 해싱](docs/basics/11.Consistent_Hashing.md)
 - [12. Long-Polling vs WebSockets vs Server-Sent Events](docs/basics/12.Long-Polling_vs_WebSockets_vs_Server-Sent_Events.md)
+
+
+## 인프라 관련 참고 사이트
+- [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/?fbclid=IwAR3xKnuQgxy4e5PdYIyHciuRv8OZsig484bMay2bKdNqb-XFRzEywg9YrJ0)

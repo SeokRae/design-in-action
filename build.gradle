@@ -49,5 +49,8 @@ subprojects {
 }
 
 project(":design-in-tinyurl") {
-    dependencies {}
+    dependencies {
+//        implementation 'org.springframework.boot:spring-boot-starter-data-cassandra'
+//        implementation 'com.amazonaws:aws-java-sdk-s3'
+    }
 }
