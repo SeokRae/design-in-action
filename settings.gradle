@@ -1,3 +1,4 @@
 rootProject.name = 'design-in-action'
 include 'design-in-tinyurl'
+include 'design-in-http'
 
